@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katchvidal
 - 👀 I’m interested in ... Python, Django, JavaScript, Node Js
-- 🌱 I’m currently learning ... React, Angular
+- 🌱 I’m currently learning ... React, Angular, TypeScript, GraphQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
