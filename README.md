@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katch Vidal</h1>
-<h3 align="center">A passionate full stack ( javaScript / TypeScript / Python ) developer from Mexico</h3>
+<h3 align="center">A passionate full stack ( TypeScript / Python ) developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katchvidal&label=Profile%20views&color=0e75b6&style=flat" alt="katchvidal" /> </p>
 
